@@ -10,5 +10,6 @@ esercitazione con file esterni di stiling introduzione SASS
 4. creo i file scss per 
   - le utilities
   - i general
-  - gli specifici stiling per l'header, main, footer
-5. 
+5. inizio importazione codici dall'esercizio Boolando al vite_boolando
+  - partenza Header
+  - arrivo footer
