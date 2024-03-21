@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+VITE BOOLANDO
+===
+esercitazione con file esterni di stiling introduzione SASS
+===
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+1. resetto i file
+  -scarico il pacchetto sass
+2. creo i file header, main, footer
+3. li importi nel file app.vue
+4. creo i file scss per 
+  - le utilities
+  - i general
+  - gli specifici stiling per l'header, main, footer
+5. 
