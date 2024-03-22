@@ -9,7 +9,7 @@
 
     methods:{
       getImagePath(image){
-        return new URL(`../assets/scss/img/${image}`, import.meta.url).href;
+        return new URL(`../assets/img/${image}`, import.meta.url).href;
       }
     }
   }
