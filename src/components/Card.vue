@@ -1,0 +1,1 @@
+import {myCards} from '../../src/assets/data/db.json'
