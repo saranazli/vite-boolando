@@ -16,7 +16,7 @@
 
 <style lang="scss" scoped>
 
-  @import '../assets/scss/main.scss';
+  @use '../assets/scss/main.scss';
 
   footer{
     height: 100px;

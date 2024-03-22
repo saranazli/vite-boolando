@@ -44,11 +44,11 @@
 
 <style lang="scss" scoped>
 
-  @use '../assets/scss/main.scss';
+  @use '../assets/scss/main.scss' as *;
 
   header{
     height: 80px;
-    background-color: rgba(255,105,0,255);
+    background-color: $bg_color_header;
     .conteiner.header{
       display: flex;
       align-items: center;
