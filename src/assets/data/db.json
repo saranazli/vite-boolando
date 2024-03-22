@@ -1,4 +1,5 @@
-{
+
+const myCards = {
   "products": [
     {
       "id": 1,
@@ -104,3 +105,5 @@
     }
   ]
 }
+
+export default myCards;
