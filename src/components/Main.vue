@@ -1,6 +1,6 @@
 <script>
-  import {myCards} from '../assets/data/db'
-  import Card from '../components/partials/Card.vue'
+  import { myCards } from '../assets/data/db';
+  import Card from '../components/partials/Card.vue';
 
   export default {
     components:{
@@ -14,9 +14,6 @@
   <main class="center">
     <div class="conteiner cards center">
 
-      <Card />
-      <Card />
-      <Card />
       <Card />
 
     </div>
