@@ -1,6 +1,17 @@
 
 <script>
 
+</script>
+
+
+<template>
   
 
-</script>
+</template>
+
+
+<style lang="scss" scoped>
+
+@use '../assets/scss/main.scss';
+
+</style>

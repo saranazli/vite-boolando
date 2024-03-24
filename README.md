@@ -2,6 +2,7 @@ VITE BOOLANDO
 ===
 esercitazione con file esterni di stiling introduzione SASS
 ===
+
 PRIMA PARTE 21 marzo
 1. resetto i file
   -scarico il pacchetto sass
@@ -13,6 +14,7 @@ PRIMA PARTE 21 marzo
 5. inizio importazione codici dall'esercizio Boolando al vite_boolando
   - partenza Header
   - arrivo footer
+
 SECONDA PARTE 22 marzo
 
 1. ho importato i data del file json e trasformato quest'ultimo in file js
