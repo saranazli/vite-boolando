@@ -106,4 +106,4 @@ const myCards = {
   ]
 }
 
-export default myCards;
+export {myCards};

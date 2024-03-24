@@ -15,6 +15,9 @@
     <div class="conteiner cards center">
 
       <Card />
+      <Card />
+      <Card />
+      <Card />
 
     </div>
   </main>
@@ -25,12 +28,12 @@
 
   @use '../assets/scss/main.scss';
 
-  main{
-    div.conteiner.cards{
-      flex-wrap: wrap;
-      margin-top: 50px;
-      margin-bottom: 50px;
-    }
+  
+  .conteiner.cards{
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
+
 
 </style>
